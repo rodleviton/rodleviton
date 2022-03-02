@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a UI Developer working from the Blue Mountains ⛰️, Australia 🇦🇺.
+I'm a UI Developer working from the Blue Mountains ⛰️ Australia 🇦🇺.
 
 <!--
 **rodleviton/rodleviton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
