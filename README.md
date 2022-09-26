@@ -2,6 +2,8 @@
 
 I'm a UI Developer working from the Blue Mountains ⛰️ Australia 🇦🇺.
 
+✨ Find me on CodePen here: https://codepen.io/rodleviton
+
 <!--
 **rodleviton/rodleviton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
