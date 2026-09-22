@@ -1,20 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <img src="assets/post.svg" alt="Leviton Modular BIOS. Main Processor: UI Developer, Blue Mountains, Australia. Detected: TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, SCSS, Radix UI, Motion, D3, Web Audio, Vitest, Testing Library, CodePen." width="880">
+</p>
 
-I'm a UI Developer working from the Blue Mountains ⛰️ Australia 🇦🇺.
+<p align="center">
+  <a href="https://github.com/reactivepixels/eko"><code>BOOT 1: eko</code></a>&nbsp;
+  <a href="https://github.com/reactivepixels/sparklebios"><code>BOOT 2: sparklebios</code></a>&nbsp;
+  <a href="https://github.com/reactivepixels/eko-web"><code>BOOT 3: eko-web</code></a>
+</p>
 
-✨ Find me on CodePen here: https://codepen.io/rodleviton
-
-<!--
-**rodleviton/rodleviton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.rodleviton.com">rodleviton.com</a> · <a href="https://codepen.io/rodleviton">CodePen</a>
+</p>
