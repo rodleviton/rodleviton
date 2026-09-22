@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/bios.svg" alt="Leviton Modular BIOS v1981. UI Developer, Blue Mountains, Australia, online since February 2012. Detected: TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, SCSS, Radix UI, Motion, D3, Web Audio, Vitest, Testing Library, CodePen." width="880">
+  <img src="assets/bios-terminal.svg" alt="Leviton Modular BIOS v1981. UI Developer, Blue Mountains, Australia, online since February 2012. Detected: TypeScript, JavaScript, React, Next.js, Vue, Tailwind CSS, SCSS, Radix UI, Motion, D3, Web Audio, Vitest, Testing Library, CodePen." width="880">
 </p>
 
 <p align="center">
